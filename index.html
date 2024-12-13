@@ -17,7 +17,7 @@
         }
 
         .container {
-            max-width: 800px;
+            max-width: 1200px;
             margin: 0 auto;
         }
 
@@ -64,13 +64,16 @@
             display: flex;
             justify-content: center;
             gap: 20px;
-            flex-wrap: wrap;
+            flex-wrap: nowrap;
             margin-bottom: 60px;
+            padding: 0 20px;
+            overflow-x: auto;
         }
 
         .screenshots img {
-            width: 200px;
-            height: 433px;
+            flex: 0 0 auto;
+            width: 180px;
+            height: 390px;
             object-fit: cover;
             border-radius: 12px;
             box-shadow: 0 4px 12px rgba(0,0,0,0.3);
@@ -91,6 +94,18 @@
         .footer a:hover {
             text-decoration: underline;
         }
+
+        @media (max-width: 768px) {
+            .screenshots {
+                justify-content: flex-start;
+                padding: 0 10px;
+            }
+            
+            .screenshots img {
+                width: 160px;
+                height: 347px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -110,6 +125,7 @@
             <img src="./images/screenshot1.png" alt="Screenshot 1">
             <img src="./images/screenshot2.png" alt="Screenshot 2">
             <img src="./images/screenshot3.png" alt="Screenshot 3">
+            <img src="./images/screenshot4.png" alt="Screenshot 4">
         </div>
 
         <div class="footer">
