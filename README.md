@@ -6,7 +6,7 @@ Transform your training with Peak Timer - the most versatile and infinitely cust
 
 Get Peak Timer now and transform your training:
 
-- [Download on the App Store](#https://apps.apple.com/us/app/peak-timer-workout-timer/id6738699642)
+- [Download on the App Store](https://apps.apple.com/us/app/peak-timer-workout-timer/id6738699642)
 
 ## ⭐ Key Features
 
