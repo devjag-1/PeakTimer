@@ -16,7 +16,7 @@ Get Peak Timer now and transform your training:
 
 ## 📬 Contact & Support
 
-- [Website](https://devjag-1.github.io/PeakTimer/)
+- [Website](https://fromjag.github.io/PeakTimer/)
 - Email: contact.peaktimer@gmail.com
 
 ## ⭐ Key Features
