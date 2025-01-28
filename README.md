@@ -8,6 +8,11 @@ Get Peak Timer now and transform your training:
 
 - [Download on the App Store](https://apps.apple.com/us/app/peak-timer-workout-timer/id6738699642)
 
+## 📬 Contact & Support
+
+- [Website](https://devjag-1.github.io/PeakTimer/)
+- Email: contact.peaktimer@gmail.com
+
 ## ⭐ Key Features
 
 - **Infinite Customization**: Create complex workouts with customizable intervals and phases
@@ -19,10 +24,3 @@ Get Peak Timer now and transform your training:
 - **Background Mode**: Timer keeps running when using other apps
 - **Enhanced Visibility**: Flashlight and screen flash features
 - **Versatile Use**: Perfect for home workouts, gym sessions, or outdoor training
-
-
-
-## 📬 Contact & Support
-
-- [Website](https://devjag-1.github.io/PeakTimer/)
-- Email: contact.peaktimer@gmail.com
