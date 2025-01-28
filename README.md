@@ -1,12 +1,18 @@
 # Peak Timer: The Ultimate Workout Timer
 
+<img src="./images/logo.png" alt="Peak Timer Logo" width="64" height="64">
+
 Transform your training with Peak Timer - the most versatile and infinitely customizable interval timer for all your fitness needs. Perfect for HIIT, Tabata, circuit training, CrossFit, boxing, meditation, or any timed workout routine.
 
 ## 📱 Download
 
 Get Peak Timer now and transform your training:
 
-- [Download on the App Store](https://apps.apple.com/us/app/peak-timer-workout-timer/id6738699642)
+<a href="https://apps.apple.com/app/peak-timer-workout-timer/id6738699642">
+    <img src="./images/appstore.png" alt="Download on the App Store" width="200">
+</a>
+
+**Coming Soon to Google Play Store!** 🚀
 
 ## 📬 Contact & Support
 
